@@ -1,5 +1,5 @@
 # MachineLearningModel
-This project comprises  Machine Learning code in Python 
+This project comprises Machine Learning code in Python 
 that involves importing packages, datasets, and connection of the drive with Colab
 # Working
  Preprocessed the dataset 
